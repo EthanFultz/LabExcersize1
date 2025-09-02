@@ -1430,3 +1430,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.09.02-17.45.24:209][  1]LogAssetRegistry: AssetRegistryGather time 2.8095s: AssetDataDiscovery 0.0210s, AssetDataGather 2.7644s, StoreResults 0.0241s.
 [2025.09.02-17.45.24:219][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2025.09.02-17.45.24:238][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2025.09.02-17.47.15:720][428]LogDerivedDataCache: C:/Users/fultz15/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.030 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 502 files in 856 folders with total size 12 MiB.
